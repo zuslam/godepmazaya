@@ -7,7 +7,7 @@
 		"status_app": "0",
 		"link_redirect":"https://google.com",
 		"admob_inter": "ca-app-pub-9866807923626150/2455642218",
-		"admob_banner": "ca-app-pub-9866807923626150/4666092338",
+		"admob_banner": "ca-app-pub-9866807923626150/4666092338xx",
 
 		"fan_banner": "548194876497884_548195199831185",
 		"fan_inter": "548194876497884_548228429827862",
@@ -19,7 +19,7 @@
 		"initialize_sdk": "",
 		"initialize_sdk_backup_ads": "",
 
-		"interval_intertitial": 0,
+		"interval_intertitial": 1,
 
 		"hpk1": "",
 		"hpk2": "",
